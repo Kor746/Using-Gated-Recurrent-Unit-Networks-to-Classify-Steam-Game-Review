@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/admin/Documents/Queens_Masters_Courses/Deep_Learning/course_project/paper/.texpadtmp/conference_041818.aux
+The style file: IEEEtranS.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ../biblio.bib
+Repeated entry---line 285 of file ../biblio.bib
+ : @article{baissentiment
+ :                       ,
+I'm skipping whatever remains of this entry
+-- IEEEtranS.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting version - not for normal IEEE work.
+Warning--empty journal in baissentiment
+Warning--empty year in baissentiment
+Warning--empty journal in kirantwitter
+Warning--empty year in kirantwitter
+Warning--empty journal in zuo2018sentiment
+
+Done.
+You've used 30 entries,
+            4566 wiz_defined-function locations,
+            1055 strings with 14168 characters,
+and the built_in function-call counts, 27808 in all, are:
+= -- 2412
+> -- 821
+< -- 199
++ -- 427
+- -- 200
+* -- 1496
+:= -- 4028
+add.period$ -- 69
+call.type$ -- 30
+change.case$ -- 192
+chr.to.int$ -- 492
+cite$ -- 35
+duplicate$ -- 1736
+empty$ -- 2083
+format.name$ -- 227
+if$ -- 6332
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 293
+newline$ -- 113
+num.names$ -- 60
+pop$ -- 841
+preamble$ -- 1
+purify$ -- 160
+quote$ -- 2
+skip$ -- 2013
+stack$ -- 0
+substring$ -- 1337
+swap$ -- 1334
+text.length$ -- 35
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 328
+warning$ -- 5
+while$ -- 145
+width$ -- 32
+write$ -- 294
+(There was 1 error message)
